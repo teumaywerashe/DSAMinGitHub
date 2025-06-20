@@ -4,4 +4,5 @@ A lightweight local version control system implemented in C++ for managing file 
 How to Compile
 
 g++ -std=c++17 main.cpp minigit.cpp  -o minigit
+
 ./minigit
